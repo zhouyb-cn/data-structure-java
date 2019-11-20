@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyQueue",
+            "request": "launch",
+            "mainClass": "MyQueue",
+            "projectName": "Java_11160d7a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyLinkedList",
+            "request": "launch",
+            "mainClass": "MyLinkedList",
+            "projectName": "Java_11160d7a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyArray",
+            "request": "launch",
+            "mainClass": "MyArray",
+            "projectName": "Java_11160d7a"
+        }
+    ]
+}
