@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sort",
+            "request": "launch",
+            "mainClass": "Sort",
+            "projectName": "Java_11160d7a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Heap",
+            "request": "launch",
+            "mainClass": "Heap",
+            "projectName": "Java_11160d7a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TopK",
+            "request": "launch",
+            "mainClass": "TopK",
+            "projectName": "Java_11160d7a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MyQueue",
             "request": "launch",
             "mainClass": "MyQueue",
